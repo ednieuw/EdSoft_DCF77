@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map for EdSoft_SK6812
+#######################################
+# Class
+#######################################
+
+EdSoft_DCF77				KEYWORD3
+
+#######################################
+# Methods and Functions
+#######################################	
+getTime						KEYWORD2
+toggleDCFDebugInfo			KEYWORD2
+getDCFDebugStatus			KEYWORD2
+resetSignalFaults			KEYWORD2
+getSignalFaults				KEYWORD2
+getDCFBitMinutemark			KEYWORD2
+getDCFBitReserveantenna		KEYWORD2
+getDCFBitOnehourchange		KEYWORD2
+getDCFBitSummertime			KEYWORD2
+getDCFBitWintertime			KEYWORD2
+getDCFBitLeapsecond			KEYWORD2
+getDCFCountOnehourchange	KEYWORD2
+getDCFCountSummertime		KEYWORD2
+getDCFCountWintertime		KEYWORD2
+
+
+
+
